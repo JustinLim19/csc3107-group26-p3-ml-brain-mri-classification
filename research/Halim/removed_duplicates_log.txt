@@ -1,2 +1,22 @@
-Removed 0 duplicate images.
+Removed 20 duplicate images.
 List of removed duplicate images:
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/pituitary/Tr-pi_0011(1).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/pituitary/Tr-pi_0320.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Tr-no_0325.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Te-no_0067.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Tr-no_0341.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Tr-no_0234.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Tr-no_0350.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/notumor/Te-no_0061.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/glioma/Tr-gl_0325.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0016.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0174(1).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0033.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0190(2).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0195.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0189(1).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0145(2).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0153(2).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Tr-me_0217.jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0151(2).jpg
+/Users/halimsmacbookairm1/Documents/GitHub/csc3107-group26-p3-ml-brain-mri-classification/research/Halim/dataset_26/meningioma/Te-me_0016(2).jpg
